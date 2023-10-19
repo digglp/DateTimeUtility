@@ -1,0 +1,16 @@
+# package directories
+node_modules/
+jspm_packages
+dist/
+# Logs
+logs
+*.log
+npm-debug.log*
+
+lib-cov
+
+*.tsbuildinfo
+
+
+# Serverless directories
+.serverless
